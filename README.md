@@ -2,7 +2,7 @@
 - 👀 I’m interested in code, cars, and sports
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Don't
+- 📫 How to reach me, Don't
 
 <!---
 Aidan102/Aidan102 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
